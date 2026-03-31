@@ -89,6 +89,6 @@
 ## 🔌 Usage
 
 1. Open **http://localhost:3000** in your browser
-2. Type an Indian city name (e.g., "Delhi", "Chennai") in the search bar
-3. The backend scrapes, filters, and geocodes crime news — results appear on the map
-4. Click polygons or incident cards to explore details, filter by crime type or area
+2. Type an Indian city name (e.g., "Delhi", "Chennai") in the search bar.
+3. The backend scrapes, filters, and geocodes crime news — results appear on the map.
+4. Click polygons or incident cards to explore details, filter by crime type or area.
