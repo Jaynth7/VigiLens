@@ -2,7 +2,7 @@
 
 **VigiLens** is a real-time crime mapping platform for Indian cities. It scrapes live crime news, filters and structures it through a hybrid local-cloud AI pipeline, geocodes each incident using Google Maps, and displays them as interactive pie-chart polygons on a Google Map.
 
----
+---------------------
 
 ## 🚀 Prerequisites
 
@@ -11,7 +11,7 @@
 - **MongoDB** — caching layer for scraped articles ([Download](https://www.mongodb.com/try/download/community))
 - **Ollama** — local AI model for Stage 1 filtering ([Download](https://ollama.com))
 
----
+---------------------
 
 ## 🛠️ Installation & Running
 
